@@ -1,6 +1,6 @@
 # thesis
 
-Hello! Simulation videos were taken down from GitHub due to file size! They can now be found at the links below:
+Hello! Simulation videos were taken down from GitHub due to file size! They now live at the links below:
 
 Simulation top view: https://youtu.be/LFL6ZVMuUHo  
 
